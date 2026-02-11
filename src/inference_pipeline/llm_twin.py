@@ -175,7 +175,7 @@ class LLMTwin:
                 },
             }
         )
-
+rtwa
         # 提取回答文本
         answer = answer["choices"][0]["message"]["content"].strip()
 
